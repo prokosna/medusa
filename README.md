@@ -65,7 +65,7 @@ Medusa is consist of several micro services:
          |     v
 +--------+-----+--------+     +--------------+
 |                       +---->+              |
-|      Gazer (API)      |     |  PostgreSQL  |
+|      Gazer (API)      |     |    MongoDB   |
 |                       +<----+              |
 +-----------+-----------+     +--------------+
             ^
